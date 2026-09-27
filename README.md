@@ -70,7 +70,6 @@ A Java Spring Boot backend project built to support a banking application with A
 ## Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/asif-iqbal-531302256/
-- Portfolio: [your-portfolio-link](https://your-portfolio.com)
 - Email: asif170391@gmail.com
 
 ---
